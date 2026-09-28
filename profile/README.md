@@ -1,5 +1,7 @@
 # PassWarriors:
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9838ea19-13e6-427e-b359-d2d0fa24207d" />
+
 ## Nome da Startup:
 - ...
 ## Logo:
