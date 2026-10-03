@@ -1,1 +1,59 @@
-🛡️️ PassWarriors — Segurança e Controle em Suas Mãos Unindo segurança digital, criptografia e usabilidade.Somos a  PassWarriors , uma startup acadêmica focada no desenvolvimento de soluções em software que devolvem ao usuário o controle total sobre suas credenciais e a sua privacidade na web. 🏢 Sobre a Empresa A  PassWarriors  nasceu da necessidade de criar um ambiente seguro e intuitivo para o gerenciamento de senhas. Desenvolvemos ferramentas modernas que não apenas armazenam credenciais, mas também alertam proativamente os usuários sobre possíveis vazamentos de dados, elevando o padrão de segurança pessoal. Missão:  Proteger a identidade digital dos nossos usuários através de um gerenciamento de senhas seguro, acessível e transparente. Visão:  Ser a referência na nossa disciplina em desenvolvimento de software focado em segurança e boas práticas de POO. Valores:  Segurança, Transparência, Colaboração e Código Limpo. 👥 Nossa Equipe e Atribuições Integrante Função Principal Atribuições no Projeto Júlio GitHub e Backend Gestão do repositório, versionamento, integração e regras de negócio. João Backend e UI/UX Lógica da aplicação, arquitetura do sistema e apoio nas interfaces. Luana Design de UI/UX Identidade visual, prototipagem (Figma) e experiência do usuário. John Front-end Desenvolvimento das telas, integração com o backend e usabilidade. Arthur Backend Modelagem do banco de dados, criptografia e persistência de dados. 🔑 Nosso Projeto Principal: Gerenciador de Senhas Seguras O nosso produto principal é um sistema desktop desenvolvido em Java, focado na rotina real de usuários que precisam gerenciar múltiplas credenciais com segurança: 🔐  Cofre de Senhas:  Armazenamento seguro de credenciais categorizadas. 🚨  Monitoramento de Vazamentos (Breach Check):  Diferencial do sistema que alerta se uma senha já foi exposta em vazamentos de dados na web. 📊  Dashboard de Segurança:  Visão geral da saúde das senhas (fortes, fracas, reutilizadas). 🗂️  Organização Intuitiva:  Interface amigável para pesquisa e edição rápida de acessos. 🛠️ Tecnologias & Ferramentas Linguagem Principal:  Java ☕ Interface Gráfica:  [Definir - ex: JavaFX / Swing]  🖥️ Banco de Dados:  [Definir - ex: MySQL / PostgreSQL / SQLite]  🗄️ Versionamento & Gestão:  Git & GitHub 🐙 Design & Prototipagem:  Figma 🎨 📬 Contato Oficial Para consultar os detalhes do desenvolvimento, acompanhe nossos repositórios. 📧  E-mail Oficial:  coloque_o_email_criado_aqui@gmail.com 
+# 🛡 PassWarriors — Segurança e Controle em Suas Mãos
+
+Unindo segurança digital, criptografia e usabilidade.
+Somos a **PassWarriors**, uma startup acadêmica focada no desenvolvimento de soluções em software que devolvem ao usuário o controle total sobre suas credenciais e a sua privacidade na web.
+
+---
+
+## 🏢 Sobre a Empresa
+
+A **PassWarriors** nasceu da necessidade de criar um ambiente seguro e intuitivo para o gerenciamento de senhas. Desenvolvemos ferramentas modernas que não apenas armazenam credenciais, mas também alertam proativamente os usuários sobre possíveis vazamentos de dados, elevando o padrão de segurança pessoal.
+
+* **Missão:** Proteger a identidade digital dos nossos usuários através de um gerenciamento de senhas seguro, acessível e transparente.
+* **Visão:** Ser a referência na nossa disciplina em desenvolvimento de software focado em segurança e boas práticas de POO.
+* **Valores:** Segurança, Transparência, Colaboração e Código Limpo.
+
+---
+
+## 👥 Nossa Equipe e Atribuições
+
+| Integrante | Função Principal | Atribuições no Projeto |
+| --- | --- | --- |
+| **Júlio** | GitHub & Backend | Gestão do repositório, versionamento, integração e regras de negócio. |
+| **João** | Backend & UI/UX | Lógica da aplicação, arquitetura do sistema e apoio nas interfaces. |
+| **Luana** | UI/UX Design | Identidade visual, prototipagem (Figma) e experiência do usuário. |
+| **John** | Front-end | Desenvolvimento das telas, integração com o backend e usabilidade. |
+| **Arthur** | Backend | Modelagem do banco de dados, criptografia e persistência de dados. |
+
+---
+
+## 🔑 Nosso Projeto Principal: Gerenciador de Senhas Seguras
+
+O nosso produto principal é um sistema desktop desenvolvido em Java, focado na rotina real de usuários que precisam gerenciar múltiplas credenciais com segurança:
+
+* 🔐 **Cofre de Senhas:** Armazenamento seguro de credenciais categorizadas.
+* 🚨 **Monitoramento de Vazamentos (Breach Check):** Diferencial do sistema que alerta se uma senha já foi exposta em vazamentos de dados na web.
+* 📊 **Dashboard de Segurança:** Visão geral da saúde das senhas (fortes, fracas, reutilizadas).
+* 🗂️️ **Organização Intuitiva:** Interface amigável para pesquisa e edição rápida de acessos.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+* **Linguagem Principal:** Java ☕
+* **Interface Gráfica:** *[Definir - ex: JavaFX / Swing]* 🖥️
+* **Banco de Dados:** *[Definir - ex: MySQL / PostgreSQL / SQLite]* 🗄️
+* **Versionamento & Gestão:** Git & GitHub 🐙
+* **Design & Prototipagem:** Figma 🎨
+
+---
+
+## 📬 Contato Oficial
+
+Para consultar os detalhes do desenvolvimento, acompanhe nossos repositórios.
+
+📧 **E-mail Oficial:** *coloque_o_email_criado_aqui@gmail.com*
+
+```
+
+```
