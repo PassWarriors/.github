@@ -1,3 +1,5 @@
+PassWarriors cybersecurity banner.png
+
 # 🛡 PassWarriors — Segurança e Controle em Suas Mãos
 
 Unindo segurança digital, criptografia e usabilidade.
