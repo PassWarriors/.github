@@ -1,4 +1,6 @@
-PassWarriors cybersecurity banner.png
+<p align="center">
+  <img src="../images/PWbanner.png" alt="Banner PassWarriors" width="100%">
+</p>
 
 # 🛡 PassWarriors — Segurança e Controle em Suas Mãos
 
