@@ -52,15 +52,13 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 
 ---
 
-## 📁 Documentação & Acesso Rápido 
+## 📁 Documentação & Acesso Rápido
 
-Para consultar os detalhes do desenvolvimento e prototipagem do  PassWarriors , acesse os links oficiais: 
+Para consultar os detalhes do desenvolvimento e prototipagem do **PassWarriors**, acesse os links oficiais:
 
-* **🎨 UI/UX e Identidade Visual : Protótipos interativos no Figma, paleta de cores, rascunhos de telas e guias de estilo.**
-
-* **📝 Histórico de Reuniões & Atas : Registro de decisões da equipe, divisão de tarefas e alinhamentos semanais.**
-
-* **🏗️ Arquitetura do Sistema & POO : Diagramas de classe, modelagem do banco de dados e especificações de segurança.**
+* 🎨 **[UI/UX e Identidade Visual](https://www.figma.com/seu-link-do-figma-aqui)**: Protótipos interativos no Figma, paleta de cores, rascunhos de telas e guias de estilo.
+* 📝 **[Histórico de Reuniões & Atas](../docs/reunioes.md)**: Registro de decisões da equipe, divisão de tarefas e alinhamentos semanais.
+* 🏗️ **[Arquitetura do Sistema & POO](../docs/arquitetura.md)**: Diagramas de classe, modelagem do banco de dados e especificações de segurança.
 
 ---
 
