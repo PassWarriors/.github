@@ -45,8 +45,8 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 ## 🛠️ Tecnologias & Ferramentas
 
 * **Linguagem Principal:** Java ☕
-* **Interface Gráfica:** *[Definir - ex: JavaFX / Swing]* 🖥️
-* **Banco de Dados:** *[Definir - ex: MySQL / PostgreSQL / SQLite]* 🗄️
+* **Interface Gráfica:** JavaFX/Swing 🖥️
+* **Banco de Dados:** MySQL 🗄️
 * **Versionamento & Gestão:** Git & GitHub 🐙
 * **Design & Prototipagem:** Figma 🎨
 
