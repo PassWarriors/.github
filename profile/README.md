@@ -56,7 +56,7 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 
 * **Organização:** PassWarriors
 
-📧 **E-mail Oficial:** *passworriors@gmail.com*
+* **E-mail Oficial:** *passworriors@gmail.com*
 
 ```
 
