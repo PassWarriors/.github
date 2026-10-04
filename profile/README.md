@@ -56,7 +56,7 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 
 Para consultar os detalhes do desenvolvimento e prototipagem do **PassWarriors**, acesse os links oficiais:
 
-* 🎨 **[UI/UX e Identidade Visual]([Sistema-Login/docs/ui-ux](https://github.com/PassWarriors/Sistema-Login/tree/main/docs/ui-ux)**: Protótipos interativos no Figma, paleta de cores, rascunhos de telas e guias de estilo.
+* 🎨 **[UI/UX e Identidade Visual](https://github.com/PassWarriors/Sistema-Login/tree/main/docs/ui-ux)**: Protótipos interativos no Figma, paleta de cores, rascunhos de telas e guias de estilo.
 * 📝 **[Histórico de Reuniões & Atas](../docs/reunioes.md)**: Registro de decisões da equipe, divisão de tarefas e alinhamentos semanais.
 * 🏗️ **[Arquitetura do Sistema & POO](../docs/arquitetura.md)**: Diagramas de classe, modelagem do banco de dados e especificações de segurança.
 
