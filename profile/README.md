@@ -56,7 +56,7 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 
 Para consultar os detalhes do desenvolvimento, acompanhe nossos repositórios.
 
-📧 **E-mail Oficial:** *coloque_o_email_criado_aqui@gmail.com*
+📧 **E-mail Oficial:** *passworriors@gmail.com*
 
 ```
 
