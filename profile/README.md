@@ -44,7 +44,7 @@ O nosso produto principal é um sistema desktop desenvolvido em Java, focado na 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagem Principal:** Java ☕
+* **Linguagem Principal:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 * **Interface Gráfica:** JavaFX/Swing 🖥️
 * **Banco de Dados:** MySQL 🗄️
 * **Versionamento & Gestão:** Git & GitHub 🐙
